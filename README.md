@@ -83,7 +83,7 @@ Test case is implemented in the FanCodeCityTodoTest.java file in the com.assignm
 
 ### Test Results 
 Test results will be displayed in the console as well as Extent Report will be generated in Reports folder bu the name 'TestResults.html'
-[![Extent-Reports.png](https://i.postimg.cc/sDTXP5k6/Extent-Reports.png)](https://postimg.cc/zVR88HXK)
+[![Extent-Reports.png](([https://easyupload.io/dzlke2))](https://postimg.cc/zVR88HXK](https://easyupload.io/dzlke2))
 
 ## Tools and Technologies used 💻
 * Rest Assured
